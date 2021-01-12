@@ -1,0 +1,6 @@
+Hiii 
+This is the second Vim Document
+Just for the git & github practice
+How is thiss....?
+Bye friends
+tata
