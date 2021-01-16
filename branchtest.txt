@@ -8,4 +8,9 @@ This is to see whether conflict happens or not
 Let's see
 tata 
 bye again
+<<<<<<< HEAD
 Lets see what happens again
+=======
+here new words added
+lets see the conflict
+>>>>>>> GitPractice2
