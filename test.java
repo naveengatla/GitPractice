@@ -1,8 +1,8 @@
-public class Main {
-
-    public static void main(String[] args) {
-
-        System.out.println("Hiii GoodLuck");
+public class GoodLuck{
+    
+    public static void main( String []args ) {
+        
+        System.out.println( "GoodMorning!" );
 
     }
 }
